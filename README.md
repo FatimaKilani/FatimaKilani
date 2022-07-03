@@ -38,8 +38,8 @@ Front-End Development
 
 Back-End Development
 -----
-![node.js](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=node.js&logoColor=green)
-![express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express&logoColor=white)
-![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=green)
-![mysql](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=blue)
+![node.js](https://img.shields.io/badge/node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![express](https://img.shields.io/badge/express-yellow?style=for-the-badge&logo=express&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-green?style=for-the-badge&logo=mongodb&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-blue?style=for-the-badge&logo=mysql&logoColor=white)
 
