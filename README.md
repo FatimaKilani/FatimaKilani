@@ -25,14 +25,14 @@ second part was for admin .. he can make crud operators for every thing in app a
 -----
 Languages
 -----
-![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 Front-End Development
 -----
-![react](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React&logoColor=blue)
-![redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux&logoColor=blue)
-![html5](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=redux&logoColor=white)
-![css3](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=white)
+![react](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white)
+![redux](https://img.shields.io/badge/redux-blue?style=for-the-badge&logo=redux&logoColor=white)
+![html5](https://img.shields.io/badge/html5-orange?style=for-the-badge&logo=redux&logoColor=white)
+![css3](https://img.shields.io/badge/css3-blue?style=for-the-badge&logo=css3&logoColor=white)
 
 
 
