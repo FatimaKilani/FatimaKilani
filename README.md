@@ -1,16 +1,45 @@
-### Hi there 👋
+Hi there! 
+-----
+🚀 About Me
+-----
 
-<!--
-**FatimaKilani/FatimaKilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am Fatima Kilani, a Full Stack Web Developer
+-----
+<a href="https://www.linkedin.com/in/eng-fatima-kilani-978a99ab/">![linkedin](https://img.shields.io/badge/LinkedIn-3498DB?style=for-the-badge&logo=LinkedIn&logoColor=white)  </a>
 
-Here are some ideas to get you started:
+👨‍💻 I am really enthusiastic about learning new technologies & more programming languages.
+-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝I finished quite recently two Full Apps from zero (Backend & Frontend & CSS) 
+-----
+
+My Projects :
+🍕Full app Restaurant .. named Abed Hamada restaurant for present online orders for customers  
+this app was 2 parts
+first : customer UI => present menu and sub menu's .. he can make crud operators on comments for meals, rating, and his cart .. he also can order and payment online .
+second part was for admin .. he can make crud operators for every thing in app and check Cases of meals, customers, money by charts and diagrams.
+
+🛒 e-commerce app .. named SooqCom was for sell and buy anything you want like "open sooq" app.. the customer can make account and add products ,comment on other products, upload photos, and search for any product . 
+
+🛠️ Technologies & Tools 
+-----
+Languages
+-----
+![javascript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=white)
+
+Front-End Development
+-----
+![react](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=React&logoColor=blue)
+![redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux&logoColor=blue)
+![html5](https://img.shields.io/badge/html5-grey?style=for-the-badge&logo=redux&logoColor=white)
+![css3](https://img.shields.io/badge/css3-grey?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+Back-End Development
+-----
+![node.js](https://img.shields.io/badge/node.js-grey?style=for-the-badge&logo=node.js&logoColor=green)
+![express](https://img.shields.io/badge/express-grey?style=for-the-badge&logo=express&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb&logoColor=green)
+![mysql](https://img.shields.io/badge/mysql-grey?style=for-the-badge&logo=mysql&logoColor=blue)
+
